@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋</h1>
 
 ###
 
-<p align="left">My name is Ragnar Gulin. I'm a UX designer with a background in psychology, combined with skills in UI and front-end development. My diverse background allows me to create user-centered designs that are not only functional and user-friendly, but also aesthetically pleasing.</p>
+<p align="left">My name is Ragnar Gulin. I'm a UX designer and frontend developer with a background in psychology. I create intuitive, visually polished, and behavior-driven digital experiences built with clean code.</p>
 
 ###
 
