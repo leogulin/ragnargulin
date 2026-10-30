@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ragnar Gulin. I'm a UX designer and frontend developer with a background in psychology. I create intuitive, visually polished, and behavior-driven digital experiences built with clean code.</p>
+<p align="left">My name is Leo Gulin. I'm a UX designer and frontend developer with a background in psychology. I create intuitive, visually polished, and behavior-driven digital experiences built with clean code.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently deepening my knowledge in front end-development<br>🎲 Fun fact: I've traveled to / lived in 30+ countries</p><br>📫 How to reach me: <a href="https://ragnargulin.se/" target="_blank"> ragnargulin.se</a> or <a href="mailto:ragnarnilsgulin@gmail.com">ragnarnilsgulin@gmail.com</a>
+<p align="left">📚 I'm currently deepening my knowledge in front end-development<br>🎲 Fun fact: I've traveled to / lived in 30+ countries</p><br>📫 How to reach me: <a href="https://leogulin.se/" target="_blank"> leogulin.se</a> or <a href="mailto:130gulin@gmail.com">130gulin@gmail.com</a>
 
 ###
 
